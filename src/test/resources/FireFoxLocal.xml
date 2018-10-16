@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClientEnvironments>
+        <ClientEnvironment
+        	browsername="chrome"
+        	dc.platform = ""
+        	dc.version=""
+    		remoteflag = "false"/>
+    		  <ClientEnvironment
+        	browsername="chrome"
+        	dc.platform = ""
+    		remoteflag = "false"/>
+</ClientEnvironments>
